@@ -1,2 +1,2 @@
-# machine_learning_6.036
-A sample of the machine learning concepts and code that was used throughout this class at MIT. 
+# Machine Learning (6.036)
+A sample of the machine learning concepts and code snipped that I used throughout this class at MIT. 
